@@ -1,0 +1,133 @@
+#title {
+  text-align: center;
+  font-size: 2.5em;
+  margin: .5em 0;
+  padding: 15px;
+}
+#subtitle {
+  text-align: center;
+  font-size: 1.1em;
+  font-weight: 400;
+  color: #555;
+  padding-bottom: 10px;
+}
+#img-div {
+  text-align: justify;
+  text-align-last: center;
+  padding: 0 20px;
+  padding-top: 20px;
+  width: auto;
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: white;
+  border-radius: 2px;
+  border: 10px solid white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 8px;
+}
+#img-caption {
+  font-size: .9em;
+  color: #667;
+  margin-top: 10px;
+  padding: 5px;
+  border-radius: 4px;
+  padding-bottom: 0;
+}
+.p-container {
+  text-align: center;
+  width: 80%;
+  max-width: 600px;
+  margin: 20px auto;
+  padding-top: 1px;
+}
+p {
+  border-top: 1px solid #c0c0c0;
+  text-align: justify;
+  text-align-last: center;
+  font-family: 'Merriweather', 'Roboto', 'Source Serif Pro', 'Lora', sans-serif;
+  font-size: 1em;
+  font-weight: 300;
+  color: #4F4F4F
+  margin: 20px auto;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+  width: calc(100%-20px);
+  max-width: calc(600px-20px);
+  box-sizing: border-box;
+}
+main {
+  text-align: center;
+}
+body {
+  background-color: #e0e0e0;
+  font-family: 'Merriweather', 'Roboto', 'Source Serif Pro', 'Lora', sans-serif;
+  padding: 20px;
+  color: #333;
+}
+h3 {
+  text-align: center;
+  margin: 20px 0;
+}
+.achievement-date {
+  display: block;
+  color: #555;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  width: auto;
+  padding-bottom: 5px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+  width: calc(100%-40px);
+  max-width: 100%;
+  box-sizing: border-box;
+}
+li { 
+  padding: 15px;
+  margin-bottom: 10px;
+  position: relative;
+}
+li:not(.achievement-date) {
+  font-size: 1em;
+  font-weight: 300;
+  color: #555;
+  text-align: center;
+  padding-top: 20px;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+.list-wrapper {
+  border-top: 1px solid #c0c0c0;
+  text-align: center;
+  width: 80%;
+  max-width: 600px;
+  margin: 20px auto;
+  padding-top: 1px;
+}
+#tribute-link {
+  display: inline-block;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 10px 15px;
+}
+#tribute-info {
+  text-align: center;
+}
+#tribute-link:hover {
+  background-color: #e6e6e6;
+  color: #0056b3;
+}
