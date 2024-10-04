@@ -24,3 +24,7 @@ Clone the repository:
 git clone https://github.com/CoraBradford/Projects.git
 Open the index.html file in your preferred web browser.
 Explore the page to learn about the subject's contributions and achievements.
+
+![Tribute Page Collage](https://github.com/user-attachments/assets/f28c5150-e0fe-4b13-b26f-6fb5edbe8c94)
+Screenshot collage of the Tribute Page.
+
